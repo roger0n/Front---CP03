@@ -1,0 +1,32 @@
+header{
+    background-color: red;
+    height: 100px;
+}
+
+section{
+    display: inline-block;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.barraEsquerda{
+    background-color: aqua;
+    height: 400px;
+    width: 250px;
+
+}
+
+.barraDireita{
+    background-color: olivedrab;
+    height: 400px;
+    width: 960px;
+    margin-left: 10px;
+    position: fixed;
+   
+}
+
+footer{
+    background-color: brown;
+    height: 20px;
+}
